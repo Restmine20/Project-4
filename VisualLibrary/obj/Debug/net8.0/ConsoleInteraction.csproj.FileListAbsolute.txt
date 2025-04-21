@@ -1,0 +1,15 @@
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\ConsoleInteraction.deps.json
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\ConsoleInteraction.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\ConsoleInteraction.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.csproj.AssemblyReference.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\refint\ConsoleInteraction.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleInteraction.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ref\ConsoleInteraction.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\GameLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\GameLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ConsoleI.29365E35.Up2Date

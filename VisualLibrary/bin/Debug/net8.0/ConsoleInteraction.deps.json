@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleInteraction/1.0.0": {
+        "dependencies": {
+          "GameLibrary": "1.0.0",
+          "SixLabors.ImageSharp": "3.1.6",
+          "Spectre.Console": "0.49.1",
+          "Spectre.Console.ImageSharp": "0.49.1"
+        },
+        "runtime": {
+          "ConsoleInteraction.dll": {}
+        }
+      },
+      "SixLabors.ImageSharp/3.1.6": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.6.0"
+          }
+        }
+      },
+      "Spectre.Console/0.49.1": {
+        "runtime": {
+          "lib/net8.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.49.1.0"
+          }
+        }
+      },
+      "Spectre.Console.ImageSharp/0.49.1": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "3.1.6",
+          "Spectre.Console": "0.49.1"
+        },
+        "runtime": {
+          "lib/net8.0/Spectre.Console.ImageSharp.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.49.1.0"
+          }
+        }
+      },
+      "GameLibrary/1.0.0": {
+        "runtime": {
+          "GameLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleInteraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dHQ5jugF9v+5/LCVHCWVzaaIL6WOehqJy6eju/0VFYFPEj2WtqkGPoEV9EVQP83dHsdoqYaTuWpZdwAd37UwfA==",
+      "path": "sixlabors.imagesharp/3.1.6",
+      "hashPath": "sixlabors.imagesharp.3.1.6.nupkg.sha512"
+    },
+    "Spectre.Console/0.49.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-USV+pdu49OJ3nCjxNuw1K9Zw/c1HCBbwbjXZp0EOn6wM99tFdAtN34KEBZUMyRuJuXlUMDqhd8Yq9obW2MslYA==",
+      "path": "spectre.console/0.49.1",
+      "hashPath": "spectre.console.0.49.1.nupkg.sha512"
+    },
+    "Spectre.Console.ImageSharp/0.49.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GCqe0F6G/zGuhesbizzufOR2ZG9L4Fy9GPCrcRi2gT6HbbJMeVlzD+OjOp1PhZOrUwzhqaOAqkhSIAtRtincwQ==",
+      "path": "spectre.console.imagesharp/0.49.1",
+      "hashPath": "spectre.console.imagesharp.0.49.1.nupkg.sha512"
+    },
+    "GameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\bin\Debug\net8.0\GameLibrary.deps.json
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\bin\Debug\net8.0\GameLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\bin\Debug\net8.0\GameLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\refint\GameLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\GameLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\GameLibrary\obj\Debug\net8.0\ref\GameLibrary.dll

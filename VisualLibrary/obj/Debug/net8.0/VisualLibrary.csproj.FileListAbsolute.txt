@@ -1,0 +1,12 @@
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\VisualLibrary.deps.json
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\bin\Debug\net8.0\VisualLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\refint\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\ref\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\VisualLibrary\obj\Debug\net8.0\VisualLibrary.csproj.AssemblyReference.cache

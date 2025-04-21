@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UiY8/1qqrM=",
+  "success": true,
+  "projectFilePath": "D:\\вуз\\C#\\проекты\\Проект 4\\Project 3_2\\VisualLibrary\\ConsoleInteraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\spectre.console.imagesharp\\0.49.1\\spectre.console.imagesharp.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

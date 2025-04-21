@@ -1,0 +1,15 @@
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\bin\Debug\net8.0\HTTPLibrary.deps.json
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\bin\Debug\net8.0\HTTPLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\bin\Debug\net8.0\HTTPLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.csproj.AssemblyReference.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\refint\HTTPLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\ref\HTTPLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\bin\Debug\net8.0\GameLibrary.dll
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\bin\Debug\net8.0\GameLibrary.pdb
+D:\вуз\C#\проекты\Проект 4\Project 3_2\HTTPLibrary\obj\Debug\net8.0\HTTPLibr.F57A5BBF.Up2Date
